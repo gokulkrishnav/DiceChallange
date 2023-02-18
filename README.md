@@ -1,2 +1,2 @@
 # DiceChallange
-**DICE GAME **
+**DICE GAME**
